@@ -1,0 +1,7 @@
+{
+  "name": "mini-koa",
+  "version": "1.0.0",
+  "main": "lib/application.js",
+  "module": "commonjs",
+  "license": "MIT"
+}
